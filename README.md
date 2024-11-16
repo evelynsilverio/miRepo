@@ -1,3 +1,3 @@
 # miRepo
 
-Un commit ma+ás desde GitHub
+Un commit más desde GitHub
